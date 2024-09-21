@@ -69,6 +69,7 @@ int main()
 	{
 		cout << a[i] << " ";
 	}
+	cout <<"Da hoan thanh kiem thu :\n";
 	return 0;
 
 }
